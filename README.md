@@ -53,7 +53,7 @@ The goal is to understand user trends and provide actionable recommendations.
 
 ## Tools Used
 
-* Python (Pandas, NumPy)
+* Python (Pysark, Pandas, NumPy)
 * Matplotlib, Seaborn
 * Jupyter Notebook
 

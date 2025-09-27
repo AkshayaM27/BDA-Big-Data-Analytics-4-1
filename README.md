@@ -7,6 +7,46 @@
 This project analyzes **Netflix user behavior** using a dataset of **10,300 users**. It focuses on demographics, subscription patterns, spending habits, and device usage.
 
 The goal is to understand user trends and provide actionable recommendations.
+ ┌──────────────────────────┐
+ │ User Activities           │
+ │ (Watch history, clicks,   │
+ │ search, ratings, likes)   │
+ └─────────────┬─────────────┘
+               │
+               ▼
+ ┌──────────────────────────┐
+ │ Data Collection           │
+ │ (Logs, APIs, Devices)     │
+ └─────────────┬─────────────┘
+               │
+               ▼
+ ┌──────────────────────────┐
+ │ Data Storage              │
+ │ (HDFS, Cloud DB, NoSQL)   │
+ └─────────────┬─────────────┘
+               │
+               ▼
+ ┌──────────────────────────┐
+ │ Data Processing           │
+ │ (Hadoop / Spark for ETL,  │
+ │ cleaning, aggregation)    │
+ └─────────────┬─────────────┘
+               │
+               ▼
+ ┌──────────────────────────┐
+ │ Data Analysis             │
+ │ - Viewing patterns        │
+ │ - Recommendation models   │
+ │ - Churn prediction        │
+ └─────────────┬─────────────┘
+               │
+               ▼
+ ┌──────────────────────────┐
+ │ Insights & Actions        │
+ │ - Personalized content    │
+ │ - Better recommendations  │
+ │ - User retention strategy │
+ └──────────────────────────┘
 
 ---
 

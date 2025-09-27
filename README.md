@@ -7,6 +7,7 @@
 This project analyzes **Netflix user behavior** using a dataset of **10,300 users**. It focuses on demographics, subscription patterns, spending habits, and device usage.
 
 The goal is to understand user trends and provide actionable recommendations.
+
  ┌──────────────────────────┐
  │ User Activities           │
  │ (Watch history, clicks,   │
